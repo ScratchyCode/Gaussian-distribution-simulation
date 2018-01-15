@@ -1,3 +1,4 @@
+// Coded by ScratchyCode
 // Compile in gcc with option -lm
 #include <math.h>
 #include <stdio.h>
